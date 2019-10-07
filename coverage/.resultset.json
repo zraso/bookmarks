@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Projects/week4/weekly-challenge/bookmarks/spec/bookmark_spec.rb": [
+      "/Users/student/Documents/Makers/weekly-challenges/bookmarks/spec/bookmark_spec.rb": [
         1,
         null,
         1,
@@ -15,7 +15,7 @@
         null,
         null
       ],
-      "/Users/student/Projects/week4/weekly-challenge/bookmarks/spec/features/view_bookmarks_spec.rb": [
+      "/Users/student/Documents/Makers/weekly-challenges/bookmarks/spec/features/view_bookmarks_spec.rb": [
         1,
         1,
         1,
@@ -32,6 +32,6 @@
         null
       ]
     },
-    "timestamp": 1570457643
+    "timestamp": 1570465206
   }
 }
