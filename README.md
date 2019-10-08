@@ -1,8 +1,8 @@
-## How to set up database
-1. Connect to psql
-2. Create the database using the psql command CREATE DATABASE bookmark_manager;
-3. Connect to the database using the pqsl command \c bookmark_manager;
-4. Run the query we have saved in the file 01_create_bookmarks_table.sql
+## To set up database
+1. Connect to psql and create the 'bookmark_manager' and 'bookmark_manager_test'
+2. Create the databases using the psql command CREATE DATABASE
+3. Connect to the database using the pqsl command \c bookmark_manager and \c bookmark_manager_test
+4. To set up the appropriate tables, connect to each database in `psql` and run the SQL scripts in the `db/migrations` folder in the given order.
 
 
 ## User Stories
@@ -11,7 +11,9 @@
   So that I can choose a website to visit,
   I would like to see a list of bookmarks
 
-![Bookmark Manager domain model](./public/images/bookmark_manager_1 (1).png)
+
+
+![Bookmark Manager domain model](.bookmarks/public/images/bookmark_manager_1 (1).png)
 
 `Add new bookmarks`
 As a user,
